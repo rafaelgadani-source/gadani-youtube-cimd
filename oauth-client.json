@@ -1,5 +1,5 @@
 {
-  "client_id": "https://raw.githubusercontent.com/rafaelgadani-source/gadani-youtube-cimd/main/oauth-client.json",
+  "client_id": "https://rafaelgadani-source.github.io/gadani-youtube-cimd/oauth-client.json",
   "client_name": "Gadani YouTube Connector D26 L1 Smoke Client",
   "redirect_uris": [
     "http://127.0.0.1:6276/oauth/callback"
